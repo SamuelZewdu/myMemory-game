@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/SamuelZewdu/myMemory-game/blob/main/memoryGame.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
